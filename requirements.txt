@@ -1,0 +1,6 @@
+pymongo
+requests
+apache-airflow[ssh]
+bs4
+google.cloud
+slack_sdk
